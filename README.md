@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rielpienaar
-- 👀 I’m interested in learning to ultimately become a data scientist/analyst.
-- 🌱 I’m currently learning how to become a Data Analyst (SQL, Python, Excel, Power BI).
+- 👀 I’m interested in learning to ultimately become a data analyst.
+- 🌱 Epic Data Analyst (SQL, Python, Excel, Power BI) in the maing.
 - 💞️ I’m looking to collaborate on any Data Analysis related projects (no payment needed, just want to gain experience)
 - 📫 How to reach me email: rielpienaar@gmail.com; slack: Riel Pienaar; LinkedIn: www.linkedin.com/in/rielpienaar
