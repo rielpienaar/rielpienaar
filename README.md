@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rielpienaar
 - 👀 Data Analyst delving into Business Analytics and Business Intelligence
-- 🌱 Epic Data Analyst (SQL, Python, Excel, Google SHeets, Tableau) in the maing.
+- 🌱 Epic Analyst stack: SQL, Python, Excel, Google Sheets, Tableau
 - 📫 How to reach me email: rielpienaar@gmail.com; slack: Riel Pienaar; LinkedIn: www.linkedin.com/in/rielpienaar
